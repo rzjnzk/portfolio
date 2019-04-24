@@ -1,5 +1,5 @@
 # closed-source-project-record
 
-| **Project Name** | **Date** | **Role** | **Details** |
+| __**Project Name**__ | __**Date**__ | __**Role**__ | __**Details**__ |
 | :--- | :--- | :--- | :--- |
 | **https://backyardmarket.com.au** | Current | Lead Developer | Full-stack development with Wordpress |
