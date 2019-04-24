@@ -5,7 +5,7 @@
 Studying <br />
 &nbsp;&nbsp;&nbsp;Bachelor Computer Science (Advanced) in Artificial Intelligence; and <br />
 &nbsp;&nbsp;&nbsp;Bachelor Science (Advanced) in Experimental and Theoretical Physics <br />
-&nbsp;&nbsp;&nbsp;at the University of Adelaide
+&nbsp;&nbsp;&nbsp;at the University of Adelaide.
 
 ## Portfolio
 
