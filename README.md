@@ -2,9 +2,9 @@
 
 ## Qualifications
 
-Studying 
-    Bachelor Computer Science (Advanced) in Artificial Intelligence; and 
-    Bachelor Science (Advanced) in Experimental and Theoretical Physics
+Studying <br />
+    Bachelor Computer Science (Advanced) in Artificial Intelligence; and <br />
+    Bachelor Science (Advanced) in Experimental and Theoretical Physics <br />
     at the University of Adelaide
 
 ## Portfolio
