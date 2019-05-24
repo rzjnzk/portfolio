@@ -7,9 +7,9 @@ Studying <br />
 &nbsp;&nbsp;&nbsp;Bachelor Science (Advanced) in Experimental and Theoretical Physics <br />
 &nbsp;&nbsp;&nbsp;at the University of Adelaide.
 
-## Portfolio
+## Portfolio of Computer Science Contributions
 
-*Excluding public GitHub-based contributions.*
+*Excluding public GitHub-based and confidential contributions.*
 
 | **Project Name** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
