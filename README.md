@@ -9,7 +9,7 @@ Studying <br />
 
 ## Portfolio of Computer Science Contributions
 
-*Excluding [public GitHub-based contributions](http://github.com/rzjnzk), and either necissarily or beneficially externally-confidential contributions.*
+*Excluding [public GitHub-based contributions](http://github.com/rzjnzk) and either necissarily or beneficially externally-confidential contributions.*
 
 | **Project Name** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
