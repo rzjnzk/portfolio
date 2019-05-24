@@ -9,7 +9,7 @@ Studying <br />
 
 ## Portfolio of Computer Science Contributions
 
-*Excluding public GitHub-based and confidential contributions.*
+*Excluding public GitHub-based contributions, and contributions either necissarily or beneficially externally-confidential.*
 
 | **Project Name** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
