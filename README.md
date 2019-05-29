@@ -13,7 +13,9 @@ Studying<br/>
 
 | **Project Name** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
-| **https://backyardmarket.com.au** (BACKYARDMARKET PTY LIMITED) | March 2019 – Current | Lead Developer, Project Manager | Full-stack development with Wordpress |
+| **https://backyardmarket.com.au** for BACKYARDMARKET PTY LIMITED) | March 2019 – Current | Lead Developer, Project Manager | Full-stack development with Wordpress |
+
+$\frac{a}{b}$
 
 ## Subjects of Personal Intrest or Knowlege
 
