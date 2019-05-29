@@ -22,6 +22,9 @@ Studying<br/>
 - Qt
 - QML
 - Node.js
+- Javascript
+- HTML
+- 
 - UNIX-like shell scripting
 - Portability
 - Chromium
@@ -36,5 +39,5 @@ Studying<br/>
 - Software design principles
 - GUI (simplification and mathematical proportionality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ2MDI2MjNdfQ==
+eyJoaXN0b3J5IjpbNTEwOTc1NjU2XX0=
 -->
