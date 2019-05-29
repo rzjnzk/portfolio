@@ -24,7 +24,8 @@ Studying<br/>
 - Node.js
 - Javascript
 - HTML
-- 
+- Markdown
+- CSS
 - UNIX-like shell scripting
 - Portability
 - Chromium
@@ -39,5 +40,5 @@ Studying<br/>
 - Software design principles
 - GUI (simplification and mathematical proportionality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwOTc1NjU2XX0=
+eyJoaXN0b3J5IjpbLTYwMDI3MTAxNV19
 -->
