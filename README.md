@@ -5,7 +5,7 @@
 Studying<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Computer Science (Advanced) in Artificial Intelligence; and<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science (Advanced) in Experimental and Theoretical Physics<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;at the University of Adelaide.
+&nbsp;&nbsp;&nbsp;&nbsp;at the University of Adelaide.<br/>
 
 ## Portfolio of Computer Science Contributions
 
@@ -40,5 +40,5 @@ Studying<br/>
 - Software design principles
 - GUI (simplification and mathematical proportionality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDI3MTAxNV19
+eyJoaXN0b3J5IjpbLTIwMzUxMTA2NDQsLTYwMDI3MTAxNV19
 -->
