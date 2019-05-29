@@ -15,7 +15,7 @@ Studying<br/>
 | :--- | :--- | :--- | :--- |
 | **https://backyardmarket.com.au** | March 2019 – Current | Lead Developer, Project Manager | Full-stack development with Wordpress |
 
-## Personal Intrests
+## Subjects of Personal Intrest or Knowlege
 
 - C
 - C++
@@ -40,5 +40,5 @@ Studying<br/>
 - Software design principles
 - GUI (simplification and mathematical proportionality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUxMTA2NDQsLTYwMDI3MTAxNV19
+eyJoaXN0b3J5IjpbMTMyODE0NzUxMCwtNjAwMjcxMDE1XX0=
 -->
