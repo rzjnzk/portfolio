@@ -28,7 +28,7 @@ Studying<br/>
 - CSS
 - UNIX-like shell scripting
 - Portability
-- Chromium
+- The Chromium Project
 - emacs
 - lisp
 - elisp
@@ -40,5 +40,6 @@ Studying<br/>
 - Software design principles
 - GUI (simplification and mathematical proportionality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODE0NzUxMCwtNjAwMjcxMDE1XX0=
+eyJoaXN0b3J5IjpbLTIwNjQzODMyMzQsMTMyODE0NzUxMCwtNj
+AwMjcxMDE1XX0=
 -->
