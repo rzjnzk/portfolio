@@ -21,15 +21,20 @@ Studying<br/>
 - C++
 - Qt
 - QML
+- Node.js
 - UNIX-like shell scripting
 - Portability
-- Node.js
 - Chromium
 - emacs
+- lisp
+- elisp
 - Code style
 - Automation
 - CI/CD (Continous Integration/Continous Development)
 - git
 - GitHub
 - Software design principles
-- GUI (simplification and mathematical proportionality) 
+- GUI (simplification and mathematical proportionality)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNDQ2MDI2MjNdfQ==
+-->
