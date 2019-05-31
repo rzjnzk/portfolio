@@ -19,28 +19,29 @@ $\frac{a}{b}$
 
 ## Subjects of Personal Intrest or Knowlege
 
-- C
-- C++
-- Qt
-- QML
-- Node.js
-- Javascript
-- HTML
-- Markdown
-- CSS
-- UNIX-like shell scripting
-- Portability
-- The Chromium Project
-- emacs
-- lisp
-- elisp
+- Languages
+    - C
+    - C++
+    - Qt
+    - QML
+    - Node.js
+    - Javascript
+    - HTML
+    - Markdown
+    - CSS
+    - sh
+    - lisp
+    - elisp
 - Code style
 - Automation
 - CI/CD (Continous Integration/Continous Development)
 - git
 - GitHub
 - Software design principles
+- Portability
 - GUI (simplification and mathematical proportionality)
+- The Chromium Project
+- emacs
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNjQzODMyMzQsMTMyODE0NzUxMCwtNj
 AwMjcxMDE1XX0=
