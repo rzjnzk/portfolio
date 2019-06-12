@@ -15,8 +15,6 @@ Studying<br/>
 | :--- | :--- | :--- | :--- |
 | **https://backyardmarket.com.au** for BACKYARDMARKET PTY LIMITED | March 2019 – Current | Lead Developer, Project Manager, Technological Advisor | Full-stack development with Wordpress |
 
-$\frac{a}{b}$
-
 ## Subjects of Personal Intrest or Knowlege
 
 - Languages
@@ -27,21 +25,21 @@ $\frac{a}{b}$
     - Node.js
     - Javascript
     - HTML
-    - Markdown
+    - Markdown (md)
     - CSS
-    - sh
-    - lisp
-    - elisp
+    - Shell Script (sh)
+    - Lisp
+    - Emacs Lisp (elisp)
 - Code style
 - Automation
 - CI/CD (Continous Integration/Continous Development)
-- git
+- Git
 - GitHub
 - Software design principles
 - Portability
 - GUI (simplification and mathematical proportionality)
 - The Chromium Project
-- emacs
+- Emacs
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNjQzODMyMzQsMTMyODE0NzUxMCwtNj
 AwMjcxMDE1XX0=
