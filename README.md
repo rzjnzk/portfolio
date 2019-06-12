@@ -3,9 +3,11 @@
 ## Qualifications
 
 Studying<br/>
-&ensp;&nbsp;&nbsp;&nbsp;Bachelor of Computer Science (Advanced) in Artificial Intelligence; and<br/>
-&emsp;&nbsp;&nbsp;&nbsp;Bachelor of Science (Advanced) in Experimental and Theoretical Physics<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Computer Science (Advanced) in Artificial Intelligence; and<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science (Advanced) in Experimental and Theoretical Physics<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;at the University of Adelaide.<br/>
+&ensp;a<br/>
+&emsp;a<br/>
 
 ## Portfolio of Computer Science Contributions
 
