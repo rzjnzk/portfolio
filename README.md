@@ -20,7 +20,6 @@ Studying<br/>
 - Languages
     - C
     - C++
-    - Qt
     - QML
     - Node.js
     - Javascript
@@ -30,6 +29,9 @@ Studying<br/>
     - Shell Script (sh)
     - Lisp
     - Emacs Lisp (elisp)
+- Qt
+    - QML
+    - C++
 - Code style
 - Automation
 - CI/CD (Continous Integration/Continous Development)
