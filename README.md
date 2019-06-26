@@ -11,7 +11,7 @@ Studying<br/>
 
 *Excluding [public GitHub-based contributions](http://github.com/rzjnzk) and either necissarily or beneficially externally-confidential contributions.*
 
-| **Project Name** | **Date** | **Role** | **Details** |
+| **Project** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
 | **https://backyardmarket.com.au** for BACKYARDMARKET PTY LIMITED | March 2019 – Current | Lead Developer, Project Manager, Technological Advisor | Full-stack development with Wordpress |
 
