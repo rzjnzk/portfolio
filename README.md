@@ -13,9 +13,9 @@ Studying<br/>
 
 | **Project** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
-| **https://backyardmarket.com.au** for BACKYARDMARKET PTY LIMITED | March 2019 – Current | Lead Developer, Project Manager, Technological Advisor | Full-stack development |
+| **https://backyardmarket.com.au** for BACKYARDMARKET PTY LIMITED | March 2019 – Current | Volunteer Technology Advisor 
 
-## Subjects of Personal Intrest or Knowlege
+## Subjects of Personal Interest or Knowledge
 
 - Languages
     - C
