@@ -13,7 +13,6 @@ Studying<br/>
 
 | **Project** | **Date** | **Role** | **Details** |
 | :--- | :--- | :--- | :--- |
-| **https://backyardmarket.com.au** for BACKYARDMARKET PTY LIMITED | March 2019 – Current | Volunteer Technology Advisor 
 
 ## Subjects of Personal Interest or Knowledge
 
