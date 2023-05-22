@@ -2,7 +2,7 @@
 
 ## Qualifications
 
-Studying<br/>
+Studying (deferred)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Computer Science (Advanced) in Artificial Intelligence; and<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science (Advanced) in Experimental and Theoretical Physics<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;at the University of Adelaide.<br/>
